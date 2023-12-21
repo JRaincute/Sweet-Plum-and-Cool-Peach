@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as s,R as i}from"./chunks/framework.rTMGYeCn.js";const u=JSON.parse('{"title":"人机验证相关接口","description":"","frontmatter":{},"headers":[],"relativePath":"api/captcha.md","filePath":"api/captcha.md"}'),l={name:"api/captcha.md"},e=i("",25),n=[e];function h(d,p,r,o,k,c){return t(),s("div",null,n)}const g=a(l,[["render",h]]);export{u as __pageData,g as default};

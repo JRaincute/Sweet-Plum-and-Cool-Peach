@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as s,R as i}from"./chunks/framework.rTMGYeCn.js";const c=JSON.parse('{"title":"弹幕接口","description":"","frontmatter":{},"headers":[],"relativePath":"api/danmaku.md","filePath":"api/danmaku.md"}'),l={name:"api/danmaku.md"},e=i("",27),n=[e];function h(d,r,p,k,o,E){return a(),s("div",null,n)}const g=t(l,[["render",h]]);export{c as __pageData,g as default};

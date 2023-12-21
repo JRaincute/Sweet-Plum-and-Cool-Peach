@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as i,R as s}from"./chunks/framework.rTMGYeCn.js";const E=JSON.parse('{"title":"点赞收藏相关接口","description":"","frontmatter":{},"headers":[],"relativePath":"api/archive.md","filePath":"api/archive.md"}'),l={name:"api/archive.md"},e=s("",90),h=[e];function n(d,o,r,p,k,c){return t(),i("div",null,h)}const g=a(l,[["render",n]]);export{E as __pageData,g as default};

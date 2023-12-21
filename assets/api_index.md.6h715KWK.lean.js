@@ -1,0 +1,1 @@
+import{_ as t,o as d,c as a,R as e,a1 as r}from"./chunks/framework.rTMGYeCn.js";const E=JSON.parse('{"title":"开始","description":"","frontmatter":{},"headers":[],"relativePath":"api/index.md","filePath":"api/index.md"}'),o={name:"api/index.md"},n=e("",8),h=[n];function i(_,s,c,l,p,b){return d(),a("div",null,h)}const I=t(o,[["render",i]]);export{E as __pageData,I as default};

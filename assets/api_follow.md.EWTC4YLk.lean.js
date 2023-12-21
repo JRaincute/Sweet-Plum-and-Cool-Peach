@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as i,R as t}from"./chunks/framework.rTMGYeCn.js";const c=JSON.parse('{"title":"关注粉丝相关接口","description":"","frontmatter":{},"headers":[],"relativePath":"api/follow.md","filePath":"api/follow.md"}'),l={name:"api/follow.md"},e=t("",79),n=[e];function h(d,p,k,r,o,E){return s(),i("div",null,n)}const g=a(l,[["render",h]]);export{c as __pageData,g as default};

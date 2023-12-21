@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as i,R as s}from"./chunks/framework.rTMGYeCn.js";const E=JSON.parse('{"title":"视频资源接口","description":"","frontmatter":{},"headers":[],"relativePath":"api/resource.md","filePath":"api/resource.md"}'),e={name:"api/resource.md"},l=s("",27),n=[l];function h(o,r,d,p,k,c){return t(),i("div",null,n)}const g=a(e,[["render",h]]);export{E as __pageData,g as default};

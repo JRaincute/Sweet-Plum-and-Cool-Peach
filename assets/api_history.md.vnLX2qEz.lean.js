@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,R as i}from"./chunks/framework.rTMGYeCn.js";const u=JSON.parse('{"title":"历史记录相关接口","description":"","frontmatter":{},"headers":[],"relativePath":"api/history.md","filePath":"api/history.md"}'),l={name:"api/history.md"},e=i("",42),n=[e];function h(d,p,k,r,o,E){return s(),a("div",null,n)}const y=t(l,[["render",h]]);export{u as __pageData,y as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as e,R as t}from"./chunks/framework.rTMGYeCn.js";const m=JSON.parse('{"title":"常见问题解答","description":"","frontmatter":{},"headers":[],"relativePath":"guide/qa.md","filePath":"guide/qa.md"}'),i={name:"guide/qa.md"},n=t("",18),d=[n];function l(o,p,c,h,r,k){return s(),e("div",null,d)}const u=a(i,[["render",l]]);export{m as __pageData,u as default};

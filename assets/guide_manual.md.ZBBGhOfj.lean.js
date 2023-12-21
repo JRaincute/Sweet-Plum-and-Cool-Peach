@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as i,R as e}from"./chunks/framework.rTMGYeCn.js";const u=JSON.parse('{"title":"手动部署","description":"","frontmatter":{},"headers":[],"relativePath":"guide/manual.md","filePath":"guide/manual.md"}'),t={name:"guide/manual.md"},o=e("",13),n=[o];function l(h,d,p,c,r,k){return s(),i("div",null,n)}const m=a(t,[["render",l]]);export{u as __pageData,m as default};

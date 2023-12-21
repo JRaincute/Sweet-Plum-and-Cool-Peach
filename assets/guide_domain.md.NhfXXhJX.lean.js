@@ -1,0 +1,1 @@
+import{_ as n,o as s,c as a,R as p}from"./chunks/framework.rTMGYeCn.js";const x=JSON.parse('{"title":"域名配置","description":"","frontmatter":{},"headers":[],"relativePath":"guide/domain.md","filePath":"guide/domain.md"}'),e={name:"guide/domain.md"},l=p("",16),i=[l];function t(o,c,r,d,h,_){return s(),a("div",null,i)}const u=n(e,[["render",t]]);export{x as __pageData,u as default};

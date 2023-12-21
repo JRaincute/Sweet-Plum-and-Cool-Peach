@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,R as i}from"./chunks/framework.rTMGYeCn.js";const y=JSON.parse('{"title":"评论回复相关接口","description":"","frontmatter":{},"headers":[],"relativePath":"api/comment.md","filePath":"api/comment.md"}'),l={name:"api/comment.md"},e=i("",89),n=[e];function h(d,p,k,r,o,E){return s(),a("div",null,n)}const u=t(l,[["render",h]]);export{y as __pageData,u as default};

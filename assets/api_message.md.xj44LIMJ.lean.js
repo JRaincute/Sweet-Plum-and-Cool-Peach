@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as i,R as a}from"./chunks/framework.rTMGYeCn.js";const y=JSON.parse('{"title":"消息相关接口","description":"","frontmatter":{},"headers":[],"relativePath":"api/message.md","filePath":"api/message.md"}'),l={name:"api/message.md"},e=a("",148),n=[e];function h(d,k,p,r,E,o){return s(),i("div",null,n)}const u=t(l,[["render",h]]);export{y as __pageData,u as default};
